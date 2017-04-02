@@ -1,6 +1,5 @@
 ---
 title: Tools
-layout: page
 ---
 1PasswordHelper
 ===

@@ -1,6 +1,5 @@
 ---
 title: Lake Stuart 2015
-layout: page
 ---
 ## TOC
 

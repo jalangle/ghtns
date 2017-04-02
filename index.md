@@ -1,4 +1,3 @@
 ---
 title: GHTNS
-layout: page
 ---
