@@ -7,3 +7,25 @@ github_username:  jalangle
 # Build settings
 markdown: kramdown
 theme: minima
+
+collections:
+  hikes:
+    output: true
+    markdown: kramdown
+    theme: minima
+  visit:
+    output: true
+    markdown: kramdown
+    theme: minima
+
+defaults:
+  - scope:
+      path: ""
+      type: "hikes"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "visit"
+    values:
+      layout: "page"
