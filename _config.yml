@@ -6,4 +6,4 @@ github_username:  jalangle
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
