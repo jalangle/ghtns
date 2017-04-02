@@ -1,3 +1,7 @@
+---
+title: Lake Stuart 2015
+layout: page
+---
 ## TOC
 
 [Hike Plan](#hike) [Food Plan](#food) [Gear List](#gear) [Logistics](#logic) [Weather](#weather)

@@ -1,3 +1,7 @@
+---
+title: Tools
+layout: page
+---
 1PasswordHelper
 ===
 There's no Linux client/browser integration for [1Password](https://agilebits.com/onepassword "AgileBits 1Password") which is more than a bit annoying - especially when you have multi-boot machines.  I wrote a quick perl script which allows **read-only access** to a 1Password AgileKeychain.  If I receive inquiries, I may publish some copy of this tool.   
