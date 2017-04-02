@@ -164,7 +164,7 @@ Green Trails Map - The Enchantments, WA - NO 209S 4 days, 3 nights.
 
 <td> 17</td>
 
-<td> [Oatmeal](http://ghtns.com/2013/07/basic-oatmeal-breakfast/)</td>
+<td> [Oatmeal](/2013/07/basic-oatmeal-breakfast/)</td>
 
 <td>Tortillas, nut butter, meat, gorp, etc</td>
 
@@ -176,7 +176,7 @@ Green Trails Map - The Enchantments, WA - NO 209S 4 days, 3 nights.
 
 <td> 18</td>
 
-<td> [Oatmeal](http://ghtns.com/2013/07/basic-oatmeal-breakfast/)</td>
+<td> [Oatmeal](/2013/07/basic-oatmeal-breakfast/)</td>
 
 <td>Tortillas, nut butter, meat, gorp, etc</td>
 
@@ -188,7 +188,7 @@ Green Trails Map - The Enchantments, WA - NO 209S 4 days, 3 nights.
 
 <td> 19</td>
 
-<td> [Oatmeal ](http://ghtns.com/2013/07/basic-oatmeal-breakfast/)</td>
+<td> [Oatmeal](/2013/07/basic-oatmeal-breakfast/)</td>
 
 <td>[Mozart](http://mozartsrestaurant.com), Leavenworth, WA</td>
 
