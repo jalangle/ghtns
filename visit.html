@@ -1,0 +1,9 @@
+---
+title: Visit
+layout: page
+---
+<ul class="post-list">
+  {% for item in site.visit %}
+    <li><a href="{{ item.url | prepend: item.baseurl }}">{{ item.title }}</a></li>
+  {% endfor %}
+</ul>
