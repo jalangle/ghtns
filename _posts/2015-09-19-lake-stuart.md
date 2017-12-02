@@ -10,199 +10,21 @@ category: hiking
 
 Green Trails Map - The Enchantments, WA - NO 209S 4 days, 3 nights.
 
-<table>
-
-<thead>
-
-<tr>
-
-<td>Date</td>
-
-<td>Start</td>
-
-<td>Distance</td>
-
-<td>Start El.</td>
-
-<td>End El.</td>
-
-<td>Total El. Change</td>
-
-<td>End</td>
-
-<td> Hardness</td>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td>2015/09/16</td>
-
-<td>Lake Stuart Trail Head 1599</td>
-
-<td> 4.5mi</td>
-
-<td> 3400</td>
-
-<td> 5100</td>
-
-<td> 1,700</td>
-
-<td> Lake Stuart</td>
-
-<td> 6.2</td>
-
-<td>[BlackCamera](http://ghtns.com/2015/09/lsd2015-day1/) [RedCamera](http://ghtns.com/2015/09/lsd2015r-day1/)</td>
-
-</tr>
-
-<tr>
-
-<td>2015/09/17</td>
-
-<td> Lake Stuart</td>
-
-<td> 9.4mi</td>
-
-<td> 5100</td>
-
-<td> 5600,5100</td>
-
-<td> 3,400</td>
-
-<td> Colchuck Lake, Lake Stuart</td>
-
-<td>12.8</td>
-
-<td>[BlackCamera](http://ghtns.com/2015/09/lsd2015-day2/) [RedCamera](http://ghtns.com/2015/09/lsd2015r-day2/)</td>
-
-</tr>
-
-<tr>
-
-<td>2015/09/18</td>
-
-<td> Lake Stuart</td>
-
-<td> 4mi</td>
-
-<td> 5100</td>
-
-<td> 6300,5100</td>
-
-<td> 2,400</td>
-
-<td> Horseshoe Lake, Lake Stuart</td>
-
-<td> 6.4</td>
-
-<td>[BlackCamera](http://ghtns.com/2015/09/lsd2015-day3/) [RedCamera](http://ghtns.com/2015/09/lsd2015r-day3/)</td>
-
-</tr>
-
-<tr>
-
-<td>2015/09/19</td>
-
-<td> Lake Stuart</td>
-
-<td> 4.5mi</td>
-
-<td> 5100</td>
-
-<td> 3400</td>
-
-<td> 1,700</td>
-
-<td>Lake Stuart Trail Head 1599</td>
-
-<td> 6.2</td>
-
-<td>[BlackCamera](http://ghtns.com/2015/09/lsd2015-day4/)</td>
-
-</tr>
-
-</tbody>
-
-</table>
+|Date|Start|Distance|Total El. Change|End|KH* |
+|--- |---  |---  |--- |--- |--- |
+|2015/09/16|Lake Stuart Trail Head 1599| 4.5mi| 3400| 5100| 1,700| Lake Stuart| 6.2|[BlackCamera](http://ghtns.com/2015/09/lsd2015-day1/) [RedCamera](http://ghtns.com/2015/09/lsd2015r-day1/)|
+|2015/09/17 | Lake Stuart | 9.4mi | 5100 | 5600,5100 | 3,400 | Colchuck Lake, Lake Stuart |12.8 |[BlackCamera](http://ghtns.com/2015/09/lsd2015-day2/) [RedCamera](http://ghtns.com/2015/09/lsd2015r-day2/) |
+|2015/09/18| Lake Stuart| 4mi| 5100| 6300,5100| 2,400| Horseshoe Lake, Lake Stuart| 6.4|[BlackCamera](http://ghtns.com/2015/09/lsd2015-day3/) [RedCamera](http://ghtns.com/2015/09/lsd2015r-day3/)|
+|2015/09/19| Lake Stuart| 4.5mi| 5100| 3400| 1,700|Lake Stuart Trail Head 1599| 6.2|[BlackCamera](http://ghtns.com/2015/09/lsd2015-day4/)
 
 ## <a id="food"></a>Food Plan
 
-<table>
-
-<thead>
-
-<tr>
-
-<td>Date</td>
-
-<td>Breakfast</td>
-
-<td>Lunch</td>
-
-<td>Dinner</td>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td> 2015/09/16</td>
-
-<td> Mighty O</td>
-
-<td> At trailhead</td>
-
-<td> [Beef Chili](http://ghtns.com/2015/08/trail-chili/)</td>
-
-</tr>
-
-<tr>
-
-<td> 17</td>
-
-<td> [Oatmeal](/2013/07/basic-oatmeal-breakfast/)</td>
-
-<td>Tortillas, nut butter, meat, gorp, etc</td>
-
-<td> [Pasta with Turkey & Pesto](http://ghtns.com/2013/07/spaghetti-with-pesto-sauce-and-chicken/)</td>
-
-</tr>
-
-<tr>
-
-<td> 18</td>
-
-<td> [Oatmeal](/2013/07/basic-oatmeal-breakfast/)</td>
-
-<td>Tortillas, nut butter, meat, gorp, etc</td>
-
-<td> [Pasta with Red Sauce](http://ghtns.com/2013/07/spaghetti-with-red-sauce-meat-peppers/)</td>
-
-</tr>
-
-<tr>
-
-<td> 19</td>
-
-<td> [Oatmeal](/2013/07/basic-oatmeal-breakfast/)</td>
-
-<td>[Mozart](http://mozartsrestaurant.com), Leavenworth, WA</td>
-
-<td> in Seattle</td>
-
-</tr>
-
-</tbody>
-
-</table>
+|Date|Breakfast|Lunch|Dinner
+| ---  | ---   | ---      | ---       |
+| 2015/09/16| Mighty O| At trailhead| [Beef Chili](http://ghtns.com/2015/08/trail-chili/) |
+| 17| [Oatmeal](/2013/07/basic-oatmeal-breakfast/)|Tortillas, nut butter, meat, gorp, etc| [Pasta with Turkey & Pesto](http://ghtns.com/2013/07/spaghetti-with-pesto-sauce-and-chicken/)
+| 18| [Oatmeal](/2013/07/basic-oatmeal-breakfast/)|Tortillas, nut butter, meat, gorp, etc| [Pasta with Red Sauce](http://ghtns.com/2013/07/spaghetti-with-red-sauce-meat-peppers/) |
+| 19| [Oatmeal](/2013/07/basic-oatmeal-breakfast/)|[Mozart](http://mozartsrestaurant.com), Leavenworth, WA| in Seattle |
 
 ## <a id="gear"></a>My Gear List
 
