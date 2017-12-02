@@ -1,4 +1,5 @@
 ---
+category: recipes
 ---
 
 | Qty     | Ingredient           |

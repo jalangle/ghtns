@@ -1,4 +1,5 @@
 ---
+category: recipes
 ---
 Qty (Imperial)	Oty (Metric)	Ingredient	kCal
 1/4 pound		angel hair	400

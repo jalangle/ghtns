@@ -1,5 +1,6 @@
 ---
 title: Shenandoah 2014
+category: hiking
 ---
 [Overview](#over) 
 [Hike Details](#hike)

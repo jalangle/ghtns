@@ -1,4 +1,5 @@
 ---
+category: recipes
 ---
 Qty (Imperial)	Oty (Metric)	Ingredient	kCal
 3/4 cup		Instant rice	145

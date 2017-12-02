@@ -1,4 +1,5 @@
 ---
+category: recipes
 ---
 * 1/4 pound angel hair
 * 1/4 packet alfredo sauce

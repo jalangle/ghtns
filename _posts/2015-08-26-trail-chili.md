@@ -1,4 +1,5 @@
 ---
+category: recipes
 ---
 * 1/3 cup instant rice
 * 1/2 can black beans, dried

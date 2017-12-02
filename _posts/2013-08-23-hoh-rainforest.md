@@ -1,5 +1,6 @@
 ---
 title: Hoh 2013
+category: hiking
 ---
 [Overview](#over) 
 [Hike Details](#hike)

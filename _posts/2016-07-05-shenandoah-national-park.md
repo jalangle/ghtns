@@ -1,5 +1,6 @@
 ---
 title: Shenandoah 2016
+category: hiking
 ---
 [Overview](#over) [Hike Details](#hike) [Gear List](#gear) [Resources](#resources)
 

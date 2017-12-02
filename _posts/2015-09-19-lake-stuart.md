@@ -1,5 +1,6 @@
 ---
 title: Lake Stuart 2015
+category: hiking
 ---
 ## TOC
 

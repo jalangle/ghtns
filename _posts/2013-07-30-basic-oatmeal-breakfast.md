@@ -1,4 +1,5 @@
 ---
+category: recipes
 ---
 Qty (Imperial)	Oty (Metric)	Ingredient	kCal
 2 packets		instant oatmeal	200

@@ -1,3 +1,6 @@
+---
+category: recipes
+---
 Qty (Imperial)	Qty (Metric)	Ingredient	kCal
 Spice Mix
 1/2 tsp		whole cumin seeds	
