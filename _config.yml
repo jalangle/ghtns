@@ -7,17 +7,8 @@ markdown: kramdown
 theme: minima
 
 collections:
-  visit:
-    output: true
-    markdown: kramdown
-    theme: minima
 
 defaults:
-  - scope:
-      path: ""
-      type: "visit"
-    values:
-      layout: "page"
 
 plugins:
   - jekyll-feed
