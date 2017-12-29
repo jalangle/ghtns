@@ -12,8 +12,8 @@ A very bullet-y list of things that happend in 2017.
 
 A quick trip to visit friends and see the zoo.
 
-[SF Zoo](http://www.sfzoo.org/)
-[The Morris](http://www.themorris-sf.com/)
+- [SF Zoo](http://www.sfzoo.org/)
+- [The Morris](http://www.themorris-sf.com/)
 
 ### MSP (02/11-19)
 
