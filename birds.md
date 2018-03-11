@@ -13,3 +13,5 @@ title: Birds @ Larch House
 9. [House Finch](https://www.allaboutbirds.org/guide/House_Finch)
 10. [Townsend's Warbler](https://www.allaboutbirds.org/guide/Townsends_Warbler)
 11. [Brown Creeper](https://www.allaboutbirds.org/guide/Brown_Creeper)
+12. [Canada Goose](https://www.allaboutbirds.org/guide/Canada_Goose)
+13. [Northern Flicker](https://www.allaboutbirds.org/guide/Northern_Flicker)
