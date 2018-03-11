@@ -8,7 +8,7 @@ title: Birds @ Larch House
 4. [Black-capped Chickadee](https://www.allaboutbirds.org/guide/Black-capped_Chickadee)
 5. [Chestnut-backed Chickadee](https://www.allaboutbirds.org/guide/Chestnut-backed_Chickadee)
 6. [Spotted Towhee](https://www.allaboutbirds.org/guide/Spotted_Towhee)
-7. [Pygmy Nuthatch](https://www.allaboutbirds.org/guide/Pygmy_Nuthatch)
+7. [Red-breasted Nuthatch](https://www.allaboutbirds.org/guide/Red-breasted_Nuthatch)
 8. [Northwestern Crow](https://www.allaboutbirds.org/guide/Northwestern_Crow)
 9. [House Finch](https://www.allaboutbirds.org/guide/House_Finch)
 10. [Townsend's Warbler](https://www.allaboutbirds.org/guide/Townsends_Warbler)
