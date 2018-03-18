@@ -15,3 +15,5 @@ title: Birds @ Larch House
 11. [Brown Creeper](https://www.allaboutbirds.org/guide/Brown_Creeper)
 12. [Canada Goose](https://www.allaboutbirds.org/guide/Canada_Goose)
 13. [Northern Flicker](https://www.allaboutbirds.org/guide/Northern_Flicker)
+14. [Fox Sparrow](https://www.allaboutbirds.org/guide/Fox_Sparrow)
+15. [Song Sparrow](https://www.allaboutbirds.org/guide/Song_Sparrow)
