@@ -1,4 +1,5 @@
 ---
+include: true
 title: Tools
 ---
 1PasswordHelper
