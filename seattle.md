@@ -1,5 +1,6 @@
 ---
 title: Visit Seattle
+exclude: true
 ---
 # Downtown 
 
