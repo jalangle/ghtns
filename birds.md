@@ -21,3 +21,4 @@ title: Birds @ Larch House
 16. [Mallard](https://www.allaboutbirds.org/guide/Mallard)
 17. [American Coot](https://www.allaboutbirds.org/guide/American_Coot/)
 18. [American Robin](https://www.allaboutbirds.org/guide/American_Robin/)
+19. [European Starling](https://www.allaboutbirds.org/guide/European_Starling)
