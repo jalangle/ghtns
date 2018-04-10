@@ -18,3 +18,7 @@ title: Birds @ Larch House
 13. [Northern Flicker](https://www.allaboutbirds.org/guide/Northern_Flicker)
 14. [Fox Sparrow](https://www.allaboutbirds.org/guide/Fox_Sparrow)
 15. [Song Sparrow](https://www.allaboutbirds.org/guide/Song_Sparrow)
+16. [Mallard](https://www.allaboutbirds.org/guide/Mallard)
+17. [American Coot](https://www.allaboutbirds.org/guide/American_Coot/)
+18. [American Robin](https://www.allaboutbirds.org/guide/American_Robin/)
+19. [European Starling](https://www.allaboutbirds.org/guide/European_Starling)
