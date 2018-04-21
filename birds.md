@@ -22,3 +22,7 @@ title: Birds @ Larch House
 17. [American Coot](https://www.allaboutbirds.org/guide/American_Coot/)
 18. [American Robin](https://www.allaboutbirds.org/guide/American_Robin/)
 19. [European Starling](https://www.allaboutbirds.org/guide/European_Starling)
+20. [Rufous Hummingbird](https://www.allaboutbirds.org/guide/Rufous_Hummingbird)
+21. [Bufflehead](https://www.allaboutbirds.org/guide/Bufflehead)
+22. [Violet-green Swallow](https://www.allaboutbirds.org/guide/Violet-green_Swallow/)
+23. [White-crown Sparrow](https://www.allaboutbirds.org/guide/White-crowned_Sparrow/)
