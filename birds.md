@@ -3,6 +3,7 @@ include: true
 title: Birds @ Larch House
 ---
 
+## Seen @ Larch House
 1. [Dark-eyed Junco](https://www.allaboutbirds.org/guide/Dark-eyed_Junco)
 2. [Stellar's Jay](https://www.allaboutbirds.org/guide/Stellers_Jay/)
 3. [Anna's Hummingbird](https://www.allaboutbirds.org/guide/Annas_Hummingbird)
@@ -26,3 +27,8 @@ title: Birds @ Larch House
 21. [Bufflehead](https://www.allaboutbirds.org/guide/Bufflehead)
 22. [Violet-green Swallow](https://www.allaboutbirds.org/guide/Violet-green_Swallow/)
 23. [White-crown Sparrow](https://www.allaboutbirds.org/guide/White-crowned_Sparrow/)
+
+
+## Interesting nearby eBird Hotspots
+* [Martha Lake](https://ebird.org/hotspot/L1061417)
+* [Martha Lake Airport Park](https://ebird.org/hotspot/L2465863)
