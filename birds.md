@@ -26,8 +26,8 @@ title: Birds @ Larch House
 20. [Rufous Hummingbird](https://www.allaboutbirds.org/guide/Rufous_Hummingbird)
 21. [Bufflehead](https://www.allaboutbirds.org/guide/Bufflehead)
 22. [Violet-green Swallow](https://www.allaboutbirds.org/guide/Violet-green_Swallow/)
-23. [White-crown Sparrow](https://www.allaboutbirds.org/guide/White-crowned_Sparrow/)
-
+23. [White-crowned Sparrow](https://www.allaboutbirds.org/guide/White-crowned_Sparrow/)
+24. [Great Blue Heron](htps://www.allaboutbirds.org/guide/Great_Blue_Heron/)
 
 ## Interesting nearby eBird Hotspots
 * [Martha Lake](https://ebird.org/hotspot/L1061417)
