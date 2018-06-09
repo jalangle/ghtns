@@ -28,11 +28,8 @@ title: Birds @ Larch House
 22. [Violet-green Swallow](https://www.allaboutbirds.org/guide/Violet-green_Swallow/)
 23. [White-crowned Sparrow](https://www.allaboutbirds.org/guide/White-crowned_Sparrow/)
 24. [Great Blue Heron](https://www.allaboutbirds.org/guide/Great_Blue_Heron/)
-<<<<<<< HEAD
 25. [Bald Eagle](https://www.allaboutbirds.org/guide/Bald_Eagle/)
-16. [Osprey](https://www.allaboutbirds.org/guide/Osprey/)
-=======
->>>>>>> 258e27dba8e6ddb384da83e973b90b8d34e0dd1a
+26. [Osprey](https://www.allaboutbirds.org/guide/Osprey/)
 
 ## Interesting nearby eBird Hotspots
 * [Martha Lake](https://ebird.org/hotspot/L1061417)
