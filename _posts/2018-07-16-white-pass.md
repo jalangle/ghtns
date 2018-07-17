@@ -14,7 +14,12 @@ category: hiking
 
 | Date      | Start | Distance | Start El. | End El. | Total El. Change | End | KH* |
 | ---       | ---   | ---      | ---       | ---     | ---              | --- | --- |
-|			|		|			|			|		|					|		|	|
+| 1			|		|			|			|		|					|		|	|
+| 2			|		|			|			|		|					|		|	|
+| 3			|		|			|			|		|					|		|	|
+| 4			|		|			|			|		|					|		|	|
+| 5			|		|			|			|		|					|		|	|
+| 6			|		|			|			|		|					|		|	|
 
 ## <a id="food">Food</a>
 
