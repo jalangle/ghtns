@@ -18,6 +18,15 @@ category: hiking
 
 ## <a id="food">Food</a>
 
+| Date | Breakfast 		|Lunch		| Dinner	|
+| ---  | ---   			| ---       | ---       |
+| 1    |				|			|			|
+| 2    |				|			|			|
+| 3    |				|			|			|
+| 4    |				|			|			|
+| 5    |				|			|			|
+| 6    |				|			|			|
+
 ## <a id="gear">Gear List</a>
 
 ## <a id="resources">Resources</a>
