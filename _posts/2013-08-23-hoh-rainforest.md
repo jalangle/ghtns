@@ -33,7 +33,7 @@ Mileage and elevations are based on me poring over the Green Trails Map as best 
 |2013/08/17| -|[Drake's U-Bake Pizza & Subs](http://www.drakespizzaandsubs.com/) - Club Sandwich|[Yellow Curry with Chicken](http://ghtns.com/2013/07/thai-curry/ "Thai Curry") |
 |2013/08/18|Hardboiled Eggs|Lunch|[Lamb Vindaloo](http://ghtns.com/2013/07/lamb-vindaloo/ "Lamb Vindaloo") |
 |2013/08/19|Hardboiled Eggs|Lunch|[Pasta with Pesto and Chicken](http://ghtns.com/2013/07/spaghetti-with-pesto-sauce-and-chicken/ "Spaghetti with pesto sauce and chicken") |
-|2013/08/20|Oatmeal w/Blueberry|Lunch|[Shepherds Pie](http://ghtns.com/2013/07/shepherds-pie/ "Shepherd’s Pie") |
+|2013/08/20|Oatmeal w/Blueberry|Lunch|[Shepherds Pie](2013-07-30-shepherds-pie.md "Shepherd’s Pie") |
 |2013/08/21|Oatmeal w/Mango|Lunch|Beef Chili |
 |2013/08/22|Oatmeal w/Raspberry|Lunch|[Pasta with Red Meat Sauce](http://ghtns.com/2013/07/spaghetti-with-red-sauce-meat-peppers/ "Spaghetti with red sauce, meat, peppers") |
 |2013/08/23|Clif Bar|[Next Door Gastro Pub](http://www.nextdoorgastropub.com/) - Burger with Bacon & Bleu Cheese, Bleu Cheese Fries, Onion Rings |
