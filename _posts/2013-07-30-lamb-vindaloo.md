@@ -1,31 +1,39 @@
 ---
 category: recipes
 ---
-Qty (Imperial)	Qty (Metric)	Ingredient	kCal
 Spice Mix
-1/2 tsp		whole cumin seeds	
-1/4 tsp		red pepper flakes	
-1/8 tsp		black peppercorns	
-1/8 tsp		cardamom seeds (take seeds out of pods)	
-3/4-inch		stick of cinnamon	
-1/2 tsp		mustard seeds	
-1 /4 tsp		whole fenugreek seeds	
-1 1/2 tbsp		white wine vinegar	
-1/2 tsp		salt	
-1 tsp		light brown sugar	
-1/2 medium		onions, peeled and sliced into half-rings	 22
+
+| Qty (Imp)		| Qty (Met) | Ingredient 		| kCal  |
+| ------------- | --------- | ------------ 		| ----- |
+| 1/2 tsp		|			| whole cumin seeds	|
+| 1/4 tsp		| 			| red pepper flakes	|
+| 1/8 tsp		| 			| black peppercorns	|
+| 1/8 tsp		|			| cardamom seeds (take seeds out of pods) |
+| 3/4-inch		|			| stick of cinnamon	|
+| 1/2 tsp		|			| mustard seeds	|
+| 1 /4 tbsp 	|			| whole fenugreek seeds	|
+| 1 1/2 tbsp	|			| white wine vinegar	|
+| 1/2 tsp 		|			| salt	|
+| 1 tsp			|			| light brown sugar	|
+| 1/2 medium	| 			| onions, peeled and sliced into half-rings	| 22
+
 Vindaloo
-1 tsp		coconut oil	 39
-1/4 cup		water	
-1/2 lbs.		boneless lamb, cut into 1-inch cubes, aggresively trimmed of fat	 600
-3.5oz	100g	peas	 81
-1.75oz	50g	potato	 45
-1/4-inch cube		fresh ginger, peeled and coarsely chopped	
-1/4 small whole head		garlic, cloves separated and peeled	
-1/4 tbsp		ground coriander	
-1/8 tsp		ground tumeric	
-1/4/ cup		instant rice	11
+
+| Qty (Imp)		| Qty (Met) | Ingredient 		| kCal  |
+| ------------- | --------- | ------------ 		| ----- |
+| 1 tsp			|			| coconut oil | 39
+| 1/4 cup		|			| water	| 
+| 1/2 lbs.		|			| boneless lamb, cut into 1-inch cubes, aggresively trimmed of fat | 600
+| 3.5oz 		| 100g		|	peas | 81
+| 1.75oz		| 50g		| potato | 45
+| 1/4-inch cube	| 			| fresh ginger, peeled and coarsely chopped	
+| 1/4 small whole head	garlic cloves separated and peeled	|||
+| 1/4 tbsp		|			| ground coriander	|
+| 1/8 tsp		| 			| ground tumeric	|
+| 1/4/ cup		| 			| instant rice		| 11
+
 Total	887
+
 1) Sautee/steam onion with the absolute minimum amount of oil in a heavy pan.  i managed to do this with less than a tsp of oil.   Once its nicely browned turn it into a paste; I used mortar & pestle but a food processor would work nicely.
 
 2) While dealing with the onions, mix all the spices from the spice mix together and grind them in your spice grinder.  Once the onions are done, mix this all together and let them sit.
