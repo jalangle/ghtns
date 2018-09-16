@@ -13,14 +13,19 @@ vine and wasn't sure what to do with them.  So I made grape jelly.
 ## Steps
 1) About 1.5 lbs of grapes to a large pot with water maybe an inch up under the grapes to help get
 the cooking started.
+
 2) Use a potato masher and to intermittently press the grapes and turn the whole thing into a big
 pulpy mash.
+
 3) Once everything is pulped (and very aromatic), strain the juice off the pulp. I just used a
 strainer. The pulp wasn't very fine. Press the pulp in the strainer to make sure all the juice is
 out.  After this step, I had about 2.5cups of juice.
+
 4) Add 3TBSP pectin, bring to a hard boil, stirring constantly
+
 5) Add 2.25c granulated sugar, bring back to a hard boil and let it boil for one minute, still
 stirring constantly.
+
 6) Take off heat and put in mason jars.  Put on a lid. Let set overnight.
 
 If you wanted the jelly to last longer, you could process it via a standard canning process.  I
