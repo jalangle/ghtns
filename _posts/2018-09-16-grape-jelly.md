@@ -32,6 +32,10 @@ If you wanted the jelly to last longer, you could process it via a standard cann
 wasn't sure how good it would be so didn't take the time.  Depending on the number of grapes the
 vine produces next year, I will.
 
+One thing to note; if I do this again, I'll probably reduce off about half a cup of water from the
+juice over fairly low heat in between steps 3 and 4.  The jelly set decently but I'd like it just a
+touch firmer and the water added in step 1 can go away.
+
 ![jelly 0](https://s3-us-west-2.amazonaws.com/ghtns-images/2018-09-16-grape-jelly-00.JPG)
 ![jelly 1](https://s3-us-west-2.amazonaws.com/ghtns-images/2018-09-16-grape-jelly-01.JPG)
 ![jelly 2](https://s3-us-west-2.amazonaws.com/ghtns-images/2018-09-16-grape-jelly-02.JPG)
