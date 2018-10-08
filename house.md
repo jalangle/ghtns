@@ -1,7 +1,6 @@
 ---
-title: The House
+title: The Iceberg House Rules
 ---
-
 
 ## Creaks & Groans
 
