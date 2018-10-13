@@ -8,14 +8,14 @@ I have Comcast as my ISP.  On my current plan there are 1024GBs of data usage ev
 
 My data usage over the last 6 months is as follows.
 
-| Month | Usage | 
------------------
-| April	| 791GB |
-| May   | 744GB |
-| June  | 621GB |
-| July  | 729GB |
-| Aug   | 724GB |
-| Sept  | 1190GB|
+|  Month | Usage  |
+| ------ | ------ |
+|  April | 791GB  |
+|  May   | 744GB  |
+|  June  | 621GB  |
+|  July  | 729GB  |
+|  Aug   | 724GB  |
+|  Sept  | 1190GB |
 
 You'll notice that September spiked. The mean usage before that is 721.8GB. That spike also
 is 166GB over the 1024GB cap. Luckily, I don't have to pay for the overage this time but after 
@@ -64,7 +64,7 @@ So after doing this back of the napkin math, I obviously chose to shut off this 
 Now, my billing cycle runs from the 1st of the month to the end (shocker, I know.) So I've been keeping an eye on the data used so far.
 
 |  Date | Used  | Monthly Avg per Day | Avg since last data point |
--------------------------------------------------------------------
+| ----- | ----- | ------------------- | --------------------------|
 | 10/10	| 488GB	| 48.8GB 			  | 48.8GB                    |
 | 10/12	| 565GB | 47.1GB 			  | 38.5GB                    |
 
