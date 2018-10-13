@@ -68,4 +68,5 @@ Now, my billing cycle runs from the 1st of the month to the end (shocker, I know
 | 10/10	| 488GB	| 48.8GB 			  | 48.8GB                    |
 | 10/12	| 565GB | 47.1GB 			  | 38.5GB                    |
 
+It looks like keeping this off (or throttled much further down) is going to be necessary.
 
