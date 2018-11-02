@@ -2,7 +2,7 @@
 category: tech
 ---
 
-A follow up to the Data Usage post.  Here's how the rest of the month went.
+A follow up to the [Data Usage]({% post_url 2018-10-13-data-usage %}) post.  Here's how the rest of the month went.
 
 |  Date | Used  | Monthly Avg per Day | Avg since last data point |
 | ----- | ----- | ------------------- | --------------------------|
