@@ -16,6 +16,7 @@ title: Birds @ Larch House
 * [Dark-eyed Junco](https://www.allaboutbirds.org/guide/Dark-eyed_Junco)
 * [European Starling](https://www.allaboutbirds.org/guide/European_Starling)
 * [Fox Sparrow](https://www.allaboutbirds.org/guide/Fox_Sparrow)
+* [Golden Crowned Sparrow](https://www.allaboutbirds.org/guide/Golden-crowned_Sparrow)
 * [Great Blue Heron](https://www.allaboutbirds.org/guide/Great_Blue_Heron/)
 * [House Finch](https://www.allaboutbirds.org/guide/House_Finch)
 * [Mallard](https://www.allaboutbirds.org/guide/Mallard)
