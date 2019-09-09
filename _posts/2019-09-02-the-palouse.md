@@ -32,4 +32,5 @@ Some thoughts for the next trip:
 - Plan to spend some more time in the small towns.  Rosalia, Palouse and Oakesdale all had some interesting buildings.
 - Go in a different time of year.  Probably spring.  One of the locals suggested winter is actually very picturesque
 but I don't know that I want to drive over the passes with snow on the ground if I don't have to.
-
+- Actually camp at Palouse Falls.  The sites aren't great but having tent & napping in afternoon would have made it 
+easier to stay up late to get night photos.
