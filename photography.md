@@ -1,4 +1,5 @@
 ---
+include: true
 title: Photography
 description: Photography
 category: photography
