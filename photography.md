@@ -10,7 +10,7 @@ Photo Shares
 
 Camera Bodies
 - [Fujifilm X-T2](https://fujifilm-x.com/en-us/products/cameras/x-t2/)
-- [Fujifilm T-T4](https://fujifilm-x.com/en-us/products/cameras/x-t4/)
+- [Fujifilm X-T4](https://fujifilm-x.com/en-us/products/cameras/x-t4/)
 
 Prime Lenses
 - [Fujinon XF16mmF1.4 R WR](https://www.fujifilmusa.com/products/digital_cameras/x/fujinon_lens_xf16mmf14_r_wr/)
