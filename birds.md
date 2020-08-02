@@ -11,6 +11,7 @@ title: Birds @ Larch House
 * [Black-capped Chickadee](https://www.allaboutbirds.org/guide/Black-capped_Chickadee)
 * [Brown Creeper](https://www.allaboutbirds.org/guide/Brown_Creeper)
 * [Bufflehead](https://www.allaboutbirds.org/guide/Bufflehead)
+* [Bewick's Wren](https://www.allaboutbirds.org/guide/Bewicks_Wren)
 * [Canada Goose](https://www.allaboutbirds.org/guide/Canada_Goose)
 * [Chestnut-backed Chickadee](https://www.allaboutbirds.org/guide/Chestnut-backed_Chickadee)
 * [Dark-eyed Junco](https://www.allaboutbirds.org/guide/Dark-eyed_Junco)
