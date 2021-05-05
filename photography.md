@@ -15,7 +15,7 @@ Camera Bodies
 Prime Lenses
 - [Fujinon XF16mmF1.4 R WR](fujinon-XF16mmF1.4-R-WR.md)
 - [Fujinon XF27mmF2.8](photogear/fujinon-XF27mmF2.8.md)
-- [Fujinon XF35mmF2 R WR](https://fujifilm-x.com/en-us/products/lenses/xf35mmf2-r-wr/)
+- [Fujinon XF35mmF2 R WR](photogear/fujinon-XF35mmF2-R-WR.md)
 - [Fujinon XF80mmF2.8 R LM OIS WR Macro](https://fujifilm-x.com/en-us/products/lenses/xf80mmf28-r-lm-ois-wr-macro/)
 - Nikon 55mm
 - Nikon 105mm
