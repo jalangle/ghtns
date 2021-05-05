@@ -5,6 +5,10 @@ description: Fujinon XF16mmF1.4
 category: photography gear
 ---
 
+# Top of Mind
+I find this to be a very fast focussing lens and the short working distance makes it interesting 
+to use in a varierty of scenarios.
+
 # Quick Reference
 
 | ---------------------- | ------------------------------- |
@@ -17,7 +21,6 @@ category: photography gear
 | Max. magnification     | 0.21x                           |
 | Filter size            | 67mm                            |
 | ---------------------- | ------------------------------- |
-
 
 # Reference
 
