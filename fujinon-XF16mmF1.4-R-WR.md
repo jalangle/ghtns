@@ -1,3 +1,10 @@
+---
+include: true
+title: Lens - Fujinon XF16mmF1.4 
+description: Fujinon XF16mmF1.4
+category: photography gear
+---
+
 # Details
 
 | ---------------------- | ------------------------------- |
