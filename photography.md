@@ -21,7 +21,7 @@ Prime Lenses
 - Nikon 105mm
 
 Zoom Lenses
-- [Fujinon XF16-55F2.8](https://fujifilm-x.com/en-us/products/lenses/xf16-55mmf28-r-lm-wr/)
-- [Fujinon XF18-55mmF2.8-4 R LM OIS](https://fujifilm-x.com/en-us/products/lenses/xf18-55mmf28-4-r-lm-ois/)
-- [Fujinon XF50-140mmF2.8 R LM OIS WR](https://fujifilm-x.com/en-us/products/lenses/xf50-140mmf28-r-lm-ois-wr/)
-- [Fujinon XF100-400mmF4.5-5.6 R LM OIS WR](https://fujifilm-x.com/en-us/products/lenses/xf100-400mmf45-56-r-lm-ois-wr/)
+- [Fujinon XF16-55F2.8](photogear/fujinon-xf16-55mmf28-r-lm-wr.md)
+- [Fujinon XF18-55mmF2.8-4 R LM OIS](photogear/fujinon-xf18-55mmf28-4-r-lm-ois.md)
+- [Fujinon XF50-140mmF2.8 R LM OIS WR](photogear/fujinon-xf50-140mmf28-r-lm-ois-wr.md)
+- [Fujinon XF100-400mmF4.5-5.6 R LM OIS WR](photogear/fujinon-xf100-400mmf45-56-r-lm-ois-wr.md)
