@@ -10,12 +10,12 @@ category: photography gear
 | ---------------------- | ------------------------------- |
 | Property               | Value                           |
 | ---------------------- | ------------------------------- |
-| Angle of view          |                                 |
-| Min Aperture           |                                 |
-| Max Aperture           |                                 |
-| Focus range            |                                 |
-| Max. magnification     |                                 |
-| Filter size            |                                 |
+| Angle of view          | 20.1°                           |
+| Min Aperture           | F2.8                            |
+| Max Aperture           | F22                             |
+| Focus range            | 25cm - ∞                        |
+| Max. magnification     | 1x                              |
+| Filter size            | 62mm                            |
 | ---------------------- | ------------------------------- |
 
 

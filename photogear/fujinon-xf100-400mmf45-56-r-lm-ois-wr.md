@@ -10,12 +10,12 @@ category: photography gear
 | ---------------------- | ------------------------------- |
 | Property               | Value                           |
 | ---------------------- | ------------------------------- |
-| Angle of view          |                                 |
-| Min Aperture           |                                 |
-| Max Aperture           |                                 |
-| Focus range            |                                 |
-| Max. magnification     |                                 |
-| Filter size            |                                 |
+| Angle of view          | 16.2°- 4.1°                     |
+| Min Aperture           | F4.5 (Wide) - F5.6 (Telephoto)  |
+| Max Aperture           | F22                             |
+| Focus range            | 1.75m - ∞                       |
+| Max. magnification     | 0.19x (Telephoto)               |
+| Filter size            | 77mm                            |
 | ---------------------- | ------------------------------- |
 
 

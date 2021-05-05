@@ -10,12 +10,12 @@ category: photography gear
 | ---------------------- | ------------------------------- |
 | Property               | Value                           |
 | ---------------------- | ------------------------------- |
-| Angle of view          |                                 |
-| Min Aperture           |                                 |
-| Max Aperture           |                                 |
-| Focus range            |                                 |
-| Max. magnification     |                                 |
-| Filter size            |                                 |
+| Angle of view          | 31.7° - 11.6°                   |
+| Min Aperture           | F2.8                            |
+| Max Aperture           | F22                             |
+| Focus range            | 1m - ∞ (whole zoom position), 1m - 3m (whole zoom position) |
+| Max. magnification     | 0.12x (Telephoto)               |
+| Filter size            | 72mm                            |
 | ---------------------- | ------------------------------- |
 
 
