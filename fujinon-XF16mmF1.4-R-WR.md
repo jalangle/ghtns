@@ -8,6 +8,8 @@ category: photography gear
 # Quick Reference
 
 | ---------------------- | ------------------------------- |
+| Property               | Value                           |
+| ---------------------- | ------------------------------- |
 | Angle of view	         | 83.2°                           |
 | Aperture	             | 1.4-16                          |
 | Focus range	           | 15cm - ∞                        |
