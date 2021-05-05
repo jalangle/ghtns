@@ -14,3 +14,4 @@ category: photography gear
 
 
 # Reference
+https://fujifilm-x.com/en-us/products/lenses/xf80mmf28-r-lm-ois-wr-macro/
