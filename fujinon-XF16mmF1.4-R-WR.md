@@ -5,10 +5,8 @@ description: Fujinon XF16mmF1.4
 category: photography gear
 ---
 
-# Details
+# Quick Reference
 
-| ---------------------- | ------------------------------- |
-|                        |                                 |
 | ---------------------- | ------------------------------- |
 | Angle of view	         | 83.2°                           |
 | Aperture	             | 1.4-16                          |
