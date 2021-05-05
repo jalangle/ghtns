@@ -10,6 +10,12 @@ category: photography gear
 | ---------------------- | ------------------------------- |
 | Property               | Value                           |
 | ---------------------- | ------------------------------- |
+| Angle of view          |                                 |
+| Min Aperture           |                                 |
+| Max Aperture           |                                 |
+| Focus range            |                                 |
+| Max. magnification     |                                 |
+| Filter size            |                                 |
 | ---------------------- | ------------------------------- |
 
 

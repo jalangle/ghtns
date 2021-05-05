@@ -10,11 +10,12 @@ category: photography gear
 | ---------------------- | ------------------------------- |
 | Property               | Value                           |
 | ---------------------- | ------------------------------- |
-| Angle of view	         | 83.2°                           |
-| Aperture	             | 1.4-16                          |
-| Focus range	           | 15cm - ∞                        |
+| Angle of view          | 83.2°                           |
+| Min Aperture           | 1.4                             |
+| Max Aperture           | 16                              |
+| Focus range            | 15cm - ∞                        |
 | Max. magnification     | 0.21x                           |
-| Filter size	           | 67mm                            |
+| Filter size            | 67mm                            |
 | ---------------------- | ------------------------------- |
 
 
