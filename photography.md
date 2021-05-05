@@ -13,7 +13,7 @@ Camera Bodies
 - [Fujifilm X-T4](https://fujifilm-x.com/en-us/products/cameras/x-t4/)
 
 Prime Lenses
-- [Fujinon XF16mmF1.4 R WR](fujinon-XF16mmF1.4-R-WR.md)
+- [Fujinon XF16mmF1.4 R WR](photogear/fujinon-XF16mmF1.4-R-WR.md)
 - [Fujinon XF27mmF2.8](photogear/fujinon-XF27mmF2.8.md)
 - [Fujinon XF35mmF2 R WR](photogear/fujinon-XF35mmF2-R-WR.md)
 - [Fujinon XF80mmF2.8 R LM OIS WR Macro](photogear/fujinon-XF80mmF2.8-R-LM-OIS-WR-Macro.md)
