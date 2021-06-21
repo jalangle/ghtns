@@ -45,7 +45,7 @@ Quick references for various lenses I've used
 
 #### Teleconverters
 - [Fujinon XF1.4 TC WR](photogear/fujinon-xf14x-tc-wr.md)
-- [Fujinon XF2 TC WR](photogear/fujinon-xf2x-tc-wr.md)
+- [Fujinon XF2 TC WR](photogear/fujinon-xf2x-tc-wr.md) (rented)
 
 
 ### Nikon Lenses
