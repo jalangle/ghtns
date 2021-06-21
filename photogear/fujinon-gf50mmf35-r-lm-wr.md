@@ -1,7 +1,7 @@
 ---
 include: false
-title: Lens - Fujinon GF110mmF2
-description: Fujinon GF110mmF2
+title: Lens - Fujinon GF50mmF3.5
+description: Fujinon GF50mmF3.5
 category: photography gear
 ---
 
@@ -12,12 +12,12 @@ category: photography gear
 | ---------------------- | ------------------------------- |
 | Property               | Value                           |
 | ---------------------- | ------------------------------- |
-| Angle of view          |  27.9°                          |
-| Min Aperture           |  2.                             |
-| Max Aperture           |  22                             |
-| Focus range            |  0.9m-∞                         |
-| Max. magnification     |  0.16x                          |
-| Filter size            |  77mm                           |
+| Angle of view          |  57.4°                          |
+| Min Aperture           |  3.5                            |
+| Max Aperture           |  32                             |
+| Focus range            |  0.55m-∞                        |
+| Max. magnification     |  0.1x                           |
+| Filter size            |  62mm                           |
 | ---------------------- | ------------------------------- |
 
 # Reference
