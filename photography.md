@@ -43,6 +43,11 @@ Quick references for various lenses I've used
 - [Fujinon XF50-140mmF2.8 R LM OIS WR](photogear/fujinon-xf50-140mmf28-r-lm-ois-wr.md)
 - [Fujinon XF100-400mmF4.5-5.6 R LM OIS WR](photogear/fujinon-xf100-400mmf45-56-r-lm-ois-wr.md)
 
+#### Teleconverters
+- [Fujinon XF1.4 TC WR](photogear/fujinon-xf14x-tc-wr.md)
+- [Fujinon XF2 TC WR](photogear/fujinon-xf2x-tc-wr.md)
+
+
 ### Nikon Lenses
 
 #### Prime
