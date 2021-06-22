@@ -20,7 +20,7 @@ category: photography gear, camera
 | ---------------------- | ------------------------------- |
 
 
-### Fuji G Mount Lens References
+### G-Mount Lens Quick-references
 
 #### Prime
 - [Fujinon GF50mmF3.5](photogear/fujinon-gf50mmf35-r-lm-wr.md)
