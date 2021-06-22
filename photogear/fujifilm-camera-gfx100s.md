@@ -32,4 +32,4 @@ category: photography gear, camera
 
 # Reference
 
-[1] https://fujifilm-x.com/en-us/products/lenses/xf16mmf14-r-wr/
+[1] https://fujifilm-x.com/en-us/products/cameras/gfx100s
