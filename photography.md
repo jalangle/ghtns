@@ -13,7 +13,7 @@ Quick references for various camera bodies I've used
 
 - [Fujifilm X-T2](https://fujifilm-x.com/en-us/products/cameras/x-t2/)
 - [Fujifilm X-T4](https://fujifilm-x.com/en-us/products/cameras/x-t4/)
-- [Fujifilm GFX100S](https://fujifilm-x.com/en-us/products/cameras/gfx100s/)
+- [Fujifilm GFX100S](photogear/fujifilm-camera-gfx100s.md)
 
 ## Lens Quick Reference
 Quick references for various lenses I've used
