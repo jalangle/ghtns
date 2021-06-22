@@ -7,6 +7,7 @@ category: photography gear
 
 # Top of Mind
 
+Nearest X-mount equivalent [Fujinon XF16mm F1.4](fujinon-XF16mmF1.4-R-WR.md)
 # Quick Reference
 
 | ---------------------- | ------------------------------- |
