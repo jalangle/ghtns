@@ -6,7 +6,9 @@ category: photography
 ---
 
 ## Photo Shares
-- [InstaGram](http://instagram.com/jacob.langley.photos/)
+- [Glass](https://glass.photo/jacob.langley)
+- [InstaGram](https://instagram.com/jacob.langley.photos/)
+
 
 ## Camera Bodies 
 Quick references for various camera bodies I've used
