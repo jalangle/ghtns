@@ -22,10 +22,8 @@ Quick references for various lenses I've used
 
 #### Prime
 - [Fujinon GF50mmF3.5](photogear/fujinon-gf50mmf35-r-lm-wr.md)
-
-
-- [Fujinon GF30mmF3.5](photogear/fujinon-gf30mmf35-r-wr.md) (rented)
-- [Fujinon GF110mmF2](photogear/fujinon-gf110mmf2-r-lm-wr.md) (rented)
+- [Fujinon GF30mmF3.5](photogear/fujinon-gf30mmf35-r-wr.md)
+- [Fujinon GF110mmF2](photogear/fujinon-gf110mmf2-r-lm-wr.md)
 
 #### Zoom
 - [Fujinon GF100-200mmF5.6](photogear/fujinon-gf100-200mmf56-r-lm-ois-wr.md)
