@@ -28,6 +28,7 @@ Quick references for various lenses I've used
 - [Fujinon GF110mmF2](photogear/fujinon-gf110mmf2-r-lm-wr.md) (rented)
 
 #### Zoom
+- [Fujinon GF100-200mmF5.6](photogear/fujinon-gf100-200mmf56-r-lm-ois-wr.md)
 
 ### Fuji X Mount Lenses
 
