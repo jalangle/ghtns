@@ -7,6 +7,8 @@ category: photography gear
 
 # Top of Mind
 
+Nearest X-mount equivalent [Fujinon XF50-140mmF2.8 R LM OIS WR](fujinon-xf50-140mmf28-r-lm-ois-wr.md)
+
 # Quick Reference
 
 | ---------------------- | ------------------------------- |
