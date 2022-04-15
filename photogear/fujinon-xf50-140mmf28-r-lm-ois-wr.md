@@ -5,6 +5,10 @@ description: Fujinon XF50-140mmF2.8
 category: photography gear
 ---
 
+# Top of Mind
+
+Nearest G-mount equivalent [Fujinon GF100-200mmF5.6](fujinon-gf100-200mmf56-r-lm-ois-wr.md)
+
 # Quick Reference
 
 | ---------------------- | ------------------------------- |
