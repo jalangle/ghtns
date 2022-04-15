@@ -21,8 +21,8 @@ Quick references for various lenses I've used
 ### Fuji G Mount
 
 #### Prime
-- [Fujinon GF50mmF3.5](photogear/fujinon-gf50mmf35-r-lm-wr.md)
 - [Fujinon GF30mmF3.5](photogear/fujinon-gf30mmf35-r-wr.md)
+- [Fujinon GF50mmF3.5](photogear/fujinon-gf50mmf35-r-lm-wr.md)
 - [Fujinon GF110mmF2](photogear/fujinon-gf110mmf2-r-lm-wr.md)
 
 #### Zoom
