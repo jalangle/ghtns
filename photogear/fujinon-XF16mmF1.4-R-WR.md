@@ -9,6 +9,8 @@ category: photography gear
 I find this to be a very fast focussing lens and the short working distance makes it interesting 
 to use in a varierty of scenarios.
 
+Nearest G-mount equivalent [Fujinin GF30mm F3.5](fujinon-gf30mmf35-r-wr.md)
+
 # Quick Reference
 
 | ---------------------- | ------------------------------- |
