@@ -45,3 +45,7 @@ Quick references for various lenses I've used
 #### Prime
 - Nikon 55mm
 - Nikon 105mm
+
+## Software Thoughts
+
+- [CaptureOne v Lightroom](CaptureOne-vs-Lightroom.md)
