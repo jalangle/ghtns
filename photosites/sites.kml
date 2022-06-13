@@ -3,8 +3,14 @@
     <Document id="1">
         <name>Location Site Impressions, 2022/06/13</name>
         <Placemark id="3">
-            <name>Seattle Chinese Garden</name>
+            <name>Old Glines Canyon Dam Spillway</name>
             <Point id="2">
+                <coordinates>-123.600022,48.002199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>Seattle Chinese Garden</name>
+            <Point id="4">
                 <coordinates>-122.35234,47.551871,0.0</coordinates>
             </Point>
         </Placemark>
