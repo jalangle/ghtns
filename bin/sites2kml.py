@@ -27,7 +27,7 @@ def GetLocations():
 	locations = list()
 
 	# Load locations from markdown
-	p = Path('photosites')
+	p = Path('_photosites')
 	for d in p.iterdir() :
 		if not str(d).endswith(".md"):
 			continue 
@@ -47,7 +47,7 @@ def LocationsToKML(locations):
 	sites = simplekml.Kml(name="Location Site Impressions, " + date.today().strftime("%Y/%m/%d"))
 	for l in locations:
 		sites.newpoint(name=l.Name, coords=[(l.Longitude, l.Latitude)])
-	sites.save("photosites/sites.kml")
+	sites.save("_photosites/sites.kml")
 
 def main(): 
 	locations = GetLocations()

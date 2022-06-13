@@ -22,4 +22,4 @@ jobs:
           uses: stefanzweifel/git-auto-commit-action@v4
           with:
               commit_message: Automated update of location kml
-              file_pattern: photosites/sites.kml
+              file_pattern: _photosites/sites.kml
