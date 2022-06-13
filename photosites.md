@@ -1,12 +1,11 @@
 ---
 include: true
-Title: Location Impressions
+title: Photo Sites
 Location:
     Include: false
 ---
 
-## Map
- 
+<!--
 <style>
   #map {
    height: 400px;
@@ -44,10 +43,11 @@ Location:
 <script async
 src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCVeQCLZtsZYDKOPqtX7tkNII3qYjPiNME&callback=initMap">
 </script>
+-->
 
 ## Sites
 
-{% for location in site.sites %}
+{% for location in site.photosites %}
 ### [{{location.Title}}]({{site.baseurl}}{{location.url}})
 
 {% endfor %}

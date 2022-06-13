@@ -7,8 +7,16 @@ markdown: kramdown
 theme: minima
 
 collections:
+  photosites:
+    output: true
 
 defaults:
+  -
+    scope:
+      path: ""
+      type: "photosites"
+    values:
+      layout: "photosite"
 
 plugins:
   - jekyll-feed

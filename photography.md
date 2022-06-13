@@ -1,6 +1,6 @@
 ---
 include: true
-title: Photography
+title: Photo Gear
 description: Photography
 category: photography
 ---
