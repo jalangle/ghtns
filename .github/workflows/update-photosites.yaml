@@ -1,0 +1,25 @@
+
+name: Update PhotoSite KML
+
+on: push
+
+jobs:
+  update-kml:
+    name: Update KML
+    runs-on: ubuntu-latest
+    steps:
+        - name: Check-out repository
+          uses: actions/checkout@v2
+        - name: Install vENV
+          run: python3 -m venv venv
+        - name: Load environment
+          run: source venv/bin/activate
+        - name: Install dependencies
+          run: python3 -m pip install -r requirements.txt
+        - name: Update KML
+          run: python3 bin/sites2kml.py
+        - name: Auto-commit updates
+          uses: stefanzweifel/git-auto-commit-action@v4
+          with:
+              commit_message: Automated update of location kml
+              file_pattern: sites.kml
