@@ -1,5 +1,5 @@
 ---
-Title:The Big Cats of Milwaukee County Zoo
+Title: The Big Cats of Milwaukee County Zoo
 ---
 
 ## Overview
