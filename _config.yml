@@ -9,6 +9,9 @@ theme: minima
 collections:
   photosites:
     output: true
+collections:
+  recipes:
+    output: true
 
 defaults:
   -
@@ -17,6 +20,12 @@ defaults:
       type: "photosites"
     values:
       layout: "photosite"
+  -
+    scope:
+      path: ""
+      type: "recipes"
+    values:
+      layout: "page"
 
 plugins:
   - jekyll-feed
