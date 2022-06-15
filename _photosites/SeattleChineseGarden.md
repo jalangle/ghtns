@@ -7,3 +7,10 @@ Location:
         Longitude: -122.352340
 ---
 
+
+# Thoughts
+
+# Examples
+
+# Resources
+[Seattle Chinese Garden](https://www.seattlechinesegarden.org)
