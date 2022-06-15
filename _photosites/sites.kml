@@ -14,5 +14,17 @@
                 <coordinates>-122.35234,47.551871,0.0</coordinates>
             </Point>
         </Placemark>
+        <Placemark id="7">
+            <name>Lan Su Chinese Garden</name>
+            <Point id="6">
+                <coordinates>-122.67311,45.525525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>Portland Japanese Garden</name>
+            <Point id="8">
+                <coordinates>-122.70764,45.518693,0.0</coordinates>
+            </Point>
+        </Placemark>
     </Document>
 </kml>
