@@ -9,7 +9,6 @@ theme: minima
 collections:
   photosites:
     output: true
-collections:
   recipes:
     output: true
 
