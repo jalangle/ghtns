@@ -46,6 +46,7 @@ awkward.
 ## Things I don't like specifically about Lightroom
 
 - Subscription.
+- The hard push on social. I don't want the "Discover" or anything about it to ever show up but can't turn it off.
 - Lack of multi-catalog support. The fact I can't separate my birding photos from everything else drives me up a wall. The "you don't need multiple catalogs" crowd just go away on this topic. 
 - The sync.  Slow & frequently gets stuck (I've had 2 stuck for ages and Lightroom won't / can't tell me which.)
 - Storing everything remotely by default.  Saves me space locally but not actually what I want.
