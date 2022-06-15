@@ -1,4 +1,5 @@
 ---
+category: Photography
 title: Seattle Chinese Garden
 Location:
     Include: true

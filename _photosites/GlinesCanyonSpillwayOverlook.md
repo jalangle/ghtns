@@ -1,4 +1,5 @@
 ---
+category: Photography
 title: Old Glines Canyon Dam Spillway
 Location:
     Include: true

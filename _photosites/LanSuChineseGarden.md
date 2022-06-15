@@ -1,4 +1,5 @@
 ---
+category: Photography
 title: Lan Su Chinese Garden
 Location:
     Include: true

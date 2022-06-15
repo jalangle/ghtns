@@ -1,4 +1,5 @@
 ---
+category: Photography
 title: Skagit Wildlife Area Wylie Slough
 Location:
     Include: true

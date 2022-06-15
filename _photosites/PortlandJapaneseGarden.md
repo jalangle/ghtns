@@ -1,4 +1,5 @@
 ---
+category: Photography
 title: Portland Japanese Garden
 Location:
     Include: true
