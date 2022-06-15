@@ -1,7 +1,15 @@
 ---
 layout: category
-title: Trail Recipes
-description: Trail Recipes.
+title: Recipes
+description: Recipes
 category: recipes
 permalink: /recipes/
+include: true
 ---
+
+## Sites
+
+{% for recipe in site.recipes %}
+### [{{recipe.title}}]({{site.baseurl}}{{recipe.url}})
+
+{% endfor %}
