@@ -1,5 +1,5 @@
 ---
-Title: Skagit Wildlife Area Wylie Slough
+title: Skagit Wildlife Area Wylie Slough
 Location:
     Include: true
     Coordinates:

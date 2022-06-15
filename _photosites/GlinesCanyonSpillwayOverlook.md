@@ -1,5 +1,5 @@
 ---
-Title: Old Glines Canyon Dam Spillway
+title: Old Glines Canyon Dam Spillway
 Location:
     Include: true
     Coordinates:

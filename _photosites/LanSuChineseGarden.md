@@ -1,5 +1,5 @@
 ---
-Title: Lan Su Chinese Garden
+title: Lan Su Chinese Garden
 Location:
     Include: true
     Coordinates:

@@ -1,5 +1,5 @@
 ---
-Title: Portland Japanese Garden
+title: Portland Japanese Garden
 Location:
     Include: true
     Coordinates:

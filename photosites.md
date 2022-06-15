@@ -1,8 +1,10 @@
 ---
+category: Photography
+description: interesting photography locations
 include: true
+layout: category
 title: Photo Sites
-Location:
-    Include: false
+permalink: /photosites/
 ---
 
 <!--
@@ -47,10 +49,8 @@ src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCVeQCLZtsZYDKOPqtX7tkNII3
 
 ## Sites
 
-{% for location in site.photosites %}
-### [{{location.Title}}]({{site.baseurl}}{{location.url}})
+{% for photosite in site.photosites %}
+### [{{photosite.title}}]({{site.baseurl}}{{photosite.url}})
 
 {% endfor %}
 
-## Meta
-[Repository]({{site.github.repository_url}}) at [Build Revision]({{site.github.repository_url}}/commit/{{site.github.build_revision}})
