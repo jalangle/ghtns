@@ -35,7 +35,7 @@ def GetLocations():
 		with open(d) as f:
 			site = frontmatter.load(f)
 			if(site['Location']['Include']):			
-				l = Location(site['Title'], site['Location']['Coordinates']['Latitude'], site['Location']['Coordinates']['Longitude'])
+				l = Location(site['title'], site['Location']['Coordinates']['Latitude'], site['Location']['Coordinates']['Longitude'])
 				locations.append(l)
 
 	# sort the list of locations (sort is by Lat, then Long) so that they appear in a consistent order
