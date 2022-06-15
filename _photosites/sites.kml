@@ -3,26 +3,32 @@
     <Document id="1">
         <name>Location Site Impressions, 2022/06/15</name>
         <Placemark id="3">
-            <name>Old Glines Canyon Dam Spillway</name>
+            <name>Skagit Wildlife Area Wylie Slough</name>
             <Point id="2">
-                <coordinates>-123.600022,48.002199,0.0</coordinates>
+                <coordinates>-122.3741287,48.3246351,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="5">
-            <name>Seattle Chinese Garden</name>
+            <name>Old Glines Canyon Dam Spillway</name>
             <Point id="4">
-                <coordinates>-122.35234,47.551871,0.0</coordinates>
+                <coordinates>-123.600022,48.002199,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="7">
-            <name>Lan Su Chinese Garden</name>
+            <name>Seattle Chinese Garden</name>
             <Point id="6">
-                <coordinates>-122.67311,45.525525,0.0</coordinates>
+                <coordinates>-122.35234,47.551871,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="9">
-            <name>Portland Japanese Garden</name>
+            <name>Lan Su Chinese Garden</name>
             <Point id="8">
+                <coordinates>-122.67311,45.525525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>Portland Japanese Garden</name>
+            <Point id="10">
                 <coordinates>-122.70764,45.518693,0.0</coordinates>
             </Point>
         </Placemark>
