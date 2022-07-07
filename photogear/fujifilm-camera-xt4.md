@@ -9,14 +9,14 @@ category: photography gear, camera, aps-c
 
 # Quick Reference
 
-| ---------------------- | ------------------------------- |
-| Property               | Value                           |
-| ---------------------- | ------------------------------- |
-| Lens Mount             | X-mount                         |
-| Image Sensor           | 23.5mm x 15.6mm  (APS-C) X-Trans CMOS 4  |
-| In-Body stabilization? | Yes                             |
-| Battery.               | NP-W235                         |
-| ---------------------- | ------------------------------- |
+|:-----------------------|:----------------------------------------|
+| Property               | Value                                   |
+|:-----------------------|:----------------------------------------|
+| Lens Mount             | X-mount                                 |
+| Image Sensor           | 23.5mm x 15.6mm  (APS-C) X-Trans CMOS 4 |
+| In-Body stabilization? | Yes                                     |
+| Battery.               | NP-W235                                 |
+|:-----------------------|:----------------------------------------|
 
 ### X-Mount Lens Quick-references
 
@@ -31,12 +31,11 @@ category: photography gear, camera, aps-c
 - [Fujinon XF18-55mmF2.8-4 R LM OIS](photogear/fujinon-xf18-55mmf28-4-r-lm-ois.md)
 - [Fujinon XF50-140mmF2.8 R LM OIS WR](photogear/fujinon-xf50-140mmf28-r-lm-ois-wr.md)
 - [Fujinon XF100-400mmF4.5-5.6 R LM OIS WR](photogear/fujinon-xf100-400mmf45-56-r-lm-ois-wr.md)
+- [Fujinon XF150-600mmF5.6-8 R LM OIS WR](fujinon-xf150-600mmf56-8-r-lm-ois-wr.md)
 
 #### Teleconverters
 - [Fujinon XF1.4 TC WR](photogear/fujinon-xf14x-tc-wr.md)
 - [Fujinon XF2 TC WR](photogear/fujinon-xf2x-tc-wr.md) (rented)
-
-
 
 # Reference
 
