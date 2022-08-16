@@ -21,14 +21,20 @@
             </Point>
         </Placemark>
         <Placemark id="9">
-            <name>Lan Su Chinese Garden</name>
+            <name>Stiegerwald Lake National Wildlife Refuge</name>
             <Point id="8">
-                <coordinates>-122.67311,45.525525,0.0</coordinates>
+                <coordinates>-122.31124,45.5637,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="11">
-            <name>Portland Japanese Garden</name>
+            <name>Lan Su Chinese Garden</name>
             <Point id="10">
+                <coordinates>-122.67311,45.525525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>Portland Japanese Garden</name>
+            <Point id="12">
                 <coordinates>-122.70764,45.518693,0.0</coordinates>
             </Point>
         </Placemark>
