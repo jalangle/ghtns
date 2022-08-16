@@ -1,15 +1,15 @@
 ---
- category: Photography
- title: Ridgefield National Wildlife Refuge, River S unit
- Location:
-     Include: true
-     Coordinates:
-         Latitude: 45.80706
-         Longitude: -122.74281
+category: Photography
+title: Ridgefield National Wildlife Refuge, River S unit
+Location:
+    Include: true
+    Coordinates:
+        Latitude: 45.80706
+        Longitude: -122.74281
 
- ---
+---
 
- # Thoughts
+# Thoughts
 
 4 mile auto loop tour.  Summer you can leave vehicles but the rest of the year is inside the vehicle. Great for birding.
 
@@ -18,9 +18,9 @@ grassed in.  It does, however, tend to have barn swallow nests and the trees aro
 
 The trail is bug heavy but has some lovely grassland views.
 
- # Examples
+# Examples
 
- # Resources
+# Resources
  
- [Ridgefield - US Fish & Wildlife](https://www.fws.gov/refuge/ridgefield)
- [Ridgefield River S Unit details - US Fish & Wildlife](https://www.fws.gov/refuge/ridgefield/visit-us/locations/river-s-unit-auto-tour-route)
+[Ridgefield - US Fish & Wildlife](https://www.fws.gov/refuge/ridgefield)
+[Ridgefield River S Unit details - US Fish & Wildlife](https://www.fws.gov/refuge/ridgefield/visit-us/locations/river-s-unit-auto-tour-route)
