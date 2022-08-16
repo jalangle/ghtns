@@ -21,3 +21,6 @@ The trail is bug heavy but has some lovely grassland views.
  # Examples
 
  # Resources
+ 
+ [Ridgefield - US Fish & Wildlife](https://www.fws.gov/refuge/ridgefield)
+ [Ridgefield River S Unit details - US Fish & Wildlife](https://www.fws.gov/refuge/ridgefield/visit-us/locations/river-s-unit-auto-tour-route)
