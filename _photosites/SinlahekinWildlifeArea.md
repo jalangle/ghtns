@@ -4,7 +4,7 @@ title: Sinlahekin Wildlife Area
 Location:
     Include: true
     Coordinates:
-		Latitude: 48.68036
+        Latitude: 48.68036
         Longitude: -119.68597
 ---
 

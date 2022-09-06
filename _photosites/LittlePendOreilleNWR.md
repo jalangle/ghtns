@@ -4,7 +4,7 @@ title: Little Pend Oreille National Wildlife Area
 Location:
     Include: true
     Coordinates:
-		Latitude: 48.46167
+        Latitude: 48.46167
         Longitude: -117.73193
 ---
 
