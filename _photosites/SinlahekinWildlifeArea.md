@@ -10,7 +10,7 @@ Location:
 
 # Thoughts
 
-A lot of good scenery along a river valley. Road is gravel and dirt and sometimes very primitive. Dispersed camping appears to be common. Would really like to return.
+A lot of good scenery along a river valley. Road is gravel and dirt and sometimes very primitive. Dispersed camping appears to be common. Would really like to return. 
 
 # Examples
 
