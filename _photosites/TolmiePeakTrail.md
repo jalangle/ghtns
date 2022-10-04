@@ -14,6 +14,6 @@ Heavily wooded.  Not much view of the Mowich Lake. A view to the South and West 
 # Examples
 
 # Resources
-[Mowich Lake](mowich.md)
-[NPS - Mowich Lake](https://www.nps.gov/places/mowich-lake.htm)
-[NPS - Tolmie Peak](https://www.nps.gov/mora/planyourvisit/tolmie-peak.htm)
+- [Mowich Lake](mowich.md)
+- [NPS - Mowich Lake](https://www.nps.gov/places/mowich-lake.htm)
+- [NPS - Tolmie Peak](https://www.nps.gov/mora/planyourvisit/tolmie-peak.htm)
