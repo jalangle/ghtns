@@ -13,4 +13,5 @@ Location:
 # Examples
 
 # Resources
-[NPS - Mowich Lake](https://www.nps.gov/places/mowich-lake.htm)
+- [Tolmie Peak Trail](TolmiePeakTrail.md)
+- [NPS - Mowich Lake](https://www.nps.gov/places/mowich-lake.htm)
