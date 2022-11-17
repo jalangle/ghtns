@@ -6,3 +6,5 @@ I’m a software developer in the Pacific Northwest with hobbies like hiking and
 learning about cooking, home brewing, collecting liquor (mostly scotch), and skeet shooting.
 
 If you want to know more, I’m sure you can dig up my contact info.
+
+<a rel="me" href="https://hachyderm.io/@jalangle">Mastodon</a>
