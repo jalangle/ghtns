@@ -10,15 +10,18 @@ category: photography
 - [InstaGram](https://instagram.com/jacob.langley.photos/)
 
 
-## Camera Bodies 
+## Mirrorless Camera Bodies 
 Quick references for various camera bodies I've used
 
 - [Fujifilm X-T2](https://fujifilm-x.com/en-us/products/cameras/x-t2/)
 - [Fujifilm X-T4](https://fujifilm-x.com/en-us/products/cameras/x-t4/)
 - [Fujifilm GFX100S](photogear/fujifilm-camera-gfx100s.md)
+- [Nikon Z8](photogear/nikon-z8.md)
+
 
 ## Lens Quick Reference
 Quick references for various lenses I've used
+
 
 ### Fuji G Mount
 
@@ -29,6 +32,7 @@ Quick references for various lenses I've used
 
 #### Zoom
 - [Fujinon GF100-200mmF5.6](photogear/fujinon-gf100-200mmf56-r-lm-ois-wr.md)
+
 
 ### Fuji X Mount Lenses
 
@@ -49,11 +53,18 @@ Quick references for various lenses I've used
 - [Fujinon XF1.4 TC WR](photogear/fujinon-xf14x-tc-wr.md)
 - [Fujinon XF2 TC WR](photogear/fujinon-xf2x-tc-wr.md)
 
-### Nikon Lenses
 
-#### Prime
+### Nikkor F-mount Lenses
+
 - Nikon 55mm
 - Nikon 105mm
+
+
+### Nikkor Z-mount Lenses
+
+### Prime
+
+- [Nikkor 24mm F1.8 S](photogear/nikkor-z24mmf18s.md)
 
 ## Other Gear
 - [Sky-Watcher Star Adventurer](photogear/star-adventurer.md)
