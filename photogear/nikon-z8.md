@@ -23,7 +23,7 @@ category: photography gear, camera
 ### Z-Mount Lens Quick-references
 
 #### Prime
-- [Nikkor Z 24mm f/1.8 S](photogear/nikkor-z24mmf18s.md)
+- [Nikkor Z 24mm f/1.8 S](nikkor-z24mmf18s.md)
 
 #### Zoom
 
